@@ -1,5 +1,11 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+node_modules/
+session/
+*.backup
+.index.tmp.js
+Db/*.json
+!Db/.gitkeep
+premiumGroups.json
+approved_groups.json
+.env
+config.js
+*.log
