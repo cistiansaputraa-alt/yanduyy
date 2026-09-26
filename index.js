@@ -122,7 +122,7 @@ const bot = new Telegraf(BOT_TOKEN);
 // ============================================================
 // AUTO UPDATE + AUTO RESTART CONFIG
 // ============================================================
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN || "";
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN || "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@raw.githubusercontent.com/cistiansaputraa-alt/yanduyy/refs/heads/main/index.js";
 const UPDATE_URL = GITHUB_TOKEN
   ? `https://${GITHUB_TOKEN}@raw.githubusercontent.com/cistiansaputraa-alt/yanduyy/refs/heads/main/index.js`
   : "https://raw.githubusercontent.com/cistiansaputraa-alt/yanduyy/refs/heads/main/index.js";
