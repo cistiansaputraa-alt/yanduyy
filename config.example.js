@@ -1,6 +1,7 @@
 module.exports = {
     BOT_TOKEN: "ISI_TOKEN_BOT_TELEGRAM_DISINI",
     OWNER_IDS: ["ISI_USER_ID_OWNER_DISINI"],
+    OWNER_ID: "ISI_USER_ID_OWNER_DISINI", 
     LOG_GROUP_ID: "ISI_CHAT_ID_LOG_GROUP",
     CHANNEL_USERNAME: "@isi_channel_username"
 };
